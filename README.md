@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HugoMskn
 - 👀 I’m interested in hacking and all thoses shit yk
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on somes botnets
+- 🌱 I’m currently learning things (yeah)
+- 💞️ I’m looking to collaborate on somes botnets n miners
 - 📫 How to reach me ? : on discord -> Hugo ;)#1400 or telegram -> https://t.me/HugoMskn
 
 <!---

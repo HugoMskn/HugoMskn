@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HugoMskn (no shit)
 - 👀 I’m interested in hacking and cybersec 
-- 🌱 I’m currently learning C++/C (yeah)
+- 🌱 I’m currently learning roblox code injection
 - 📫 How to reach me ? : on discord -> Hugo ;)#3737 or telegram -> https://t.me/HugoPML
 
 <!---

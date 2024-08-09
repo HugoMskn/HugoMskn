@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HugoMskn (no shit)
-- 👀 I’m interested in hacking and cybersec 
-- 🌱 I’m currently learning roblox code injection
-- 📫 How to reach me ? : on discord -> Hugo ;)#3737 or telegram -> https://t.me/HugoPML
+- 👋 Hi, I’m @HugoMskn (gg wp you can read !=
+- 👀 I’m interested in mostly anything related to coding
+- 🌱 I'm coding as most of the time
+- 📫 How to reach me ? : on discord -> hugo_mskn or telegram -> https://t.me/HugoPML
 
 <!---
 HugoMskn/HugoMskn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

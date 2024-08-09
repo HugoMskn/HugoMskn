@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HugoMskn (gg wp you can read !=
+- 👋 Hi, I’m @HugoMskn (gg wp you can read !=)
 - 👀 I’m interested in mostly anything related to coding
 - 🌱 I'm coding as most of the time
 - 📫 How to reach me ? : on discord -> hugo_mskn or telegram -> https://t.me/HugoPML
